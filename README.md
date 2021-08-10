@@ -20,7 +20,7 @@ From start to finish technology has always been the leading factor in my life.
 
 ## Installation
 
-Cloned from Github
+Clone from Github
 
 ## Usage
 
@@ -37,4 +37,4 @@ no
 ## Questions
 https://github.com/4jonathanfoster/Portfolio
 
-Jonathanfoster@gmail.com
+4Jonathanfoster@gmail.com
